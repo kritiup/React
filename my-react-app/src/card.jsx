@@ -1,12 +1,11 @@
-
+import profilepic from "./assets/profile.jpg"
 function card(){
     return(
-        <div className = "Card">
-            <img src="" alt="" />
+        <div className="card">
+            <img src={profilepic} alt="profile picture"></img>
             <h2>Kriti Upadhyay</h2>
-            <p>Hi I am kriti Upadhyay. I am currently studying Computer Engineering at National College of Engineering. I start learning Code in react. React is a javascripit Library. </p> 
+            <p>Computer Engineering</p>
         </div>
-    );
-
+    )
 }
 export default card
