@@ -20,6 +20,7 @@ This repository is a daily log of my progress as I explore the core concepts of 
 |--------|----------------------------------------|
 | Day 1  | Introduction to React, JSX, Components |
 | Day 2  | Built my first reusable Card component today — props are magic!|
+| Day 3  | learned how to style components using external CSS, CSS modules, and inline styles.|
 
 > 📌 *This table will be updated daily as I continue learning.*
 
